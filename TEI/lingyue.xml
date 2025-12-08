@@ -135,7 +135,7 @@
 
 
     <!-- 3️⃣ Edited text (normalized Latin transcription) -->
-    <div type="edition" subtype="interpretive" xml:lang="sa" script="Deva-Latn">
+    <div type="edition" subtype="critical" xml:lang="sa" script="Deva-Latn">
     <head>Edited Text (Romanized)</head>
     <ab>
         śeṣeṇa prācyāparadarśane tu jñena tritaṅka tribhir eva vādyam ||45||<lb/>
@@ -154,8 +154,7 @@
         Furthermore, there are two first visibilities (darśana) - one in the East and one in the West; therefore...<lb/>
       </ab>
       <ab>
-        Venus goes 258° in 208 (tithis); then it goes in vakra 24° in 48 tithis, and stands still
-for five days (= tithis);<lb/>
+        Venus goes 258° in 208 (tithis); then it goes in vakra 24° in 48 tithis, and stands still for five days (= tithis);<lb/>
       </ab>
     </div>
 
